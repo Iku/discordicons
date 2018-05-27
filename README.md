@@ -1,5 +1,5 @@
 # discordicons
-## replace discord icon with fun colors
+## Replace discord icon with fun colors
 ![THIS](https://pillow.s-ul.eu/rhV89i07)
 
 ### Instructions
